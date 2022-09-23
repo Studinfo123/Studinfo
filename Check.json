@@ -1,0 +1,45 @@
+{
+
+  "array":[
+
+    {
+
+    "company":"Google"
+
+    },
+
+    {
+
+      "company":"Facebook"
+
+    },
+
+    {
+
+    "company":"LinkedIn"
+
+    },
+
+    {
+
+      "company" : "Microsoft"
+
+    },
+
+    {
+
+      "company": "Apple"
+
+    }
+
+    ],
+
+    "nested":{
+
+    "flag": true,
+
+    "random_number":1
+
+    }
+
+}
